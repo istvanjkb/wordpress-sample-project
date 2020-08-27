@@ -24,3 +24,5 @@ node_modules/
 
 *
 !*.yaml
+!docs
+!*.md

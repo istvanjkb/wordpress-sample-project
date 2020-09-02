@@ -9,9 +9,9 @@ Extra functionality is often achieved with the help of plugins. This document co
 ### Recommended structure and topic
 
 - A WP website of a car shop containing 3 different pages
-    - **Home** page with a large image and a simple text description
-    - **Our cars** presenting a slider of 3 car images and description. For the slider, you can us a plugin such as [Smart Slider](https://hu.wordpress.org/plugins/smart-slider-3/) 3 or [MetaSlider](https://hu.wordpress.org/plugins/ml-slider/).
-    - **Contact** section
+  - **Home** page with a large image and a simple text description
+  - **Our cars** presenting a slider of 3 car images and description. For the slider, you can us a plugin such as [Smart Slider](https://hu.wordpress.org/plugins/smart-slider-3/) 3 or [MetaSlider](https://hu.wordpress.org/plugins/ml-slider/).
+  - **Contact** section
 - Theme: [Colibri WP](https://wordpress.org/themes/colibri-wp/)
 
 > Important: If some plugin needs payment, find an alternative to it.
@@ -39,6 +39,3 @@ Smush has been benchmarked and tested number one for speed and quality and is th
 ## Plugin 6: W3 Total Cache
 
 W3 Total Cache (W3TC) improves the SEO and user experience of your site by increasing website performance and reducing load times by leveraging features like content delivery network (CDN) integration and the latest best practices. [Click here for more info.](https://wordpress.org/plugins/w3-total-cache/)
-
-
-
